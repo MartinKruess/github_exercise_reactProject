@@ -4,7 +4,7 @@ Diese Aufgabe ist eine Github auffrischung zur Vorbereitung auf die Gruppen-Proj
 
 ## Teilaufgabe
 
-- Jeder von euch sollte eine Page aufbauen, in der es um euch geht. Schreibt einen kleinen Text über euch, der von einem Hobby, einer Erfahrung oder einfahc ein kleiner Steckbrief eurerseits ist.
+- Jeder von euch sollte eine Page aufbauen, in der es um euch geht. Schreibt einen kleinen Text über euch, der von einem Hobby, einer Erfahrung oder einfach ein kleiner Steckbrief eurerseits ist.
 - Im src Ordner gibt es bereits eine Datei (data.jsx). Die schnelleren unter euch können gerne damit ein wenig rumspielen und ein paar Cards in weiteren Components, sowie weiteren feature Branches aufbauen.
 - Jeder feature Branch sollte mindestens 2 commits haben, falls gröbere Fehler auftauchen.
 Tipp: Mit der Timeline, seht ihr die commits der aktuell aktiven Datei auf eurem aktuellen branch. Dadurch kann man zu älteren Ständen der Datei zurückspringen.
